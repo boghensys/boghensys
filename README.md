@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @boghensys
+- 👀 I’m interested in ... Haskell@DivineSpeed.
+- 🌱 I’m currently learning ... How to live.
+- 💞️ I’m looking to collaborate on ... New World Order.
+- 📫 How to reach me ... boghean@tutanota.com
